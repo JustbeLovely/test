@@ -9,6 +9,6 @@ public class test {
 
     @RequestMapping("/test")
     public String  test(){
-        return "测试";
+        return "测试11";
     }
 }
